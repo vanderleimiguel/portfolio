@@ -96,7 +96,7 @@ html, body{
 }
 
 section#inicio {
-  background-image: url("./img/bannerPortifolio.png");
+  background-image: url("./img/banner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -107,7 +107,7 @@ section#inicio {
 }
 
 section#inicio h2 {
-  font-size: 6rem;
+  font-size: 5rem;
 }
 
 section#inicio span#subtitle {
