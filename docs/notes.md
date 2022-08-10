@@ -7,3 +7,6 @@
 
 - lista para hiroko
   terminal - pip freeze > requirements.txt
+
+- .env para email e senha
+  pip install python-dotenv
