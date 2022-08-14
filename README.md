@@ -11,3 +11,7 @@ conteudo
 - JAVASCRIPT
 - PYTHON
 - BOOTSTRAP
+
+## Deploy
+
+https://vanderleimiguel.herokuapp.com/
